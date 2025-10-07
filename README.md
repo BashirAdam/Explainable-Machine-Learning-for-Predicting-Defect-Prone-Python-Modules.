@@ -53,8 +53,13 @@ This project:
 Install dependencies:
 
 ```bash
-pip install pandas numpy scikit-learn xgboost lightgbm shap matplotlib seaborn radon pylint flake8 bandit tqdm
+pip install pandas numpy scikit-learn xgboost lightgbm shap matplotlib seaborn radon pylint flake8 bandit tqdm 
+```
 
 ---
 
-##  How to Run
+## How to Run
+Run the following scripts in order:
+1. Clone Projec
+'python "Clone Projects.py"'
+

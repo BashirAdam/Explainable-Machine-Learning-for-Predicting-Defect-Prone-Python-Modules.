@@ -9,7 +9,7 @@ The project integrates static analysis metrics with explainable machine learning
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 Software defect prediction helps identify buggy code before release.  
 This project:

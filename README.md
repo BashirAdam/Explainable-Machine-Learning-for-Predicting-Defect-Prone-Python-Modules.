@@ -61,5 +61,8 @@ pip install pandas numpy scikit-learn xgboost lightgbm shap matplotlib seaborn r
 ## How to Run
 Run the following scripts in order:
 1. Clone Projec
+
 'python "Clone Projects.py"'
+2. Extract Metrics
+python "Extract Static Analysis Metrics.py"
 
